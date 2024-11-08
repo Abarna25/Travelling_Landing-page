@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(40, 35, 112);
+    background-image: url(https://www.shutterstock.com/image-vector/hand-drawn-travel-template-background-260nw-2262341221.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.h1{
+    color: white;  
+    margin-left: 50%; 
+}
+.h2{
+    color: white;  
+    margin-left: 45%;
+}
+
+nav {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 55%;
+}
+li,h1,ul{
+    display: inline;
+}
+.link a{
+    background-color: black;
+    color: white;
+    width: 500px;
+    padding: 12px;
+    
+    box-sizing: content-box;
+}
+.nav_links{
+    font-style: oblique;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 700px;
+    margin-left: 25%;
+    font-size: 14px;
+    margin-top: 75px;
+
+    
+}
+.primary_btn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 42%;
+}
+.secondary_btn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 50px;
+}
+.socials{
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
